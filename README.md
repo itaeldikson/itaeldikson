@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Olá Seja Bem Vindo!! Eu sou o Itael 
+<div align="center">
+  <a href="https://github.com/itaeldikson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaeldikson&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaeldikson&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+  
 <!--
 **itaeldikson/itaeldikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
