@@ -10,13 +10,9 @@
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> e eu estudo Programção na <a href="https://web.dio.me/home"><i>Trybe</i></a>. 😃️
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://web.dio.me/home"><i>Trybe</i></a>
-  <a href="https://github.com/itaeldikson">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaeldikson&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://web.dio.me/home"><i>Digital Innovation One</i></a>
+
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
