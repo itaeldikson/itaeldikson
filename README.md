@@ -1,15 +1,14 @@
-### Olá Seja Bem Vindo!! Eu sou o Itael 
+
 <div align="center">
   <a href="https://github.com/itaeldikson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itaeldikson&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itaeldikson&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-  <p align="center" style="border-radius:100%"><img height="auto" width="20%"  src="/assets/perfil-trybe-1.png" ></p>
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> e eu estudo Programção na <a href="https://web.dio.me/home"><i>Trybe</i></a>. 😃️
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> e eu estudo Programção na <a href="https://web.dio.me/home"><i>Digital Innovation One!</i></a>. 😃️
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://web.dio.me/home"><i>Digital Innovation One</i></a>
 
