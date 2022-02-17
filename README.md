@@ -9,8 +9,6 @@
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> e eu estudo Programção na <a href="https://web.dio.me/home"><i>Digital Innovation One!</i></a>. 😃️
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/itael-dikson/"><i>Itael Dikson</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://web.dio.me/home"><i>Digital Innovation One</i></a>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -35,20 +33,3 @@
 </div>
 <div align="center">
   
-  ![Snake animation](https://github.com/itaeldikson/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-
- 
-**itaeldikson/itaeldikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
